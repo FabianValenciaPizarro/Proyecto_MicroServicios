@@ -19,7 +19,7 @@ calculando el precio automáticamente según el catálogo de materiales.
 | Servicio | Puerto | Descripción |
 |---|---|---|
 | user-service | 8081 | Gestión de usuarios y roles |
-| catalog-service | 8082 | Materiales y precios por cm² |
+| catalog-service | 8082 | Materiales y precios |
 | order-service | 8083 | Pedidos y cálculo de montos |
 | payment-service | 8084 | Procesamiento de pagos |
 | production-service | 8085 | Control de taller y plotters |
