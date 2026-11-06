@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/materiales")
+@RequestMapping("/api/v1/materiales")
 public class MaterialController {
 
     private static final Logger log = LoggerFactory.getLogger(MaterialController.class);

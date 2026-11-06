@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/produccion")
+@RequestMapping("/api/v1/produccion")
 public class OrdenProduccionController {
 
     private static final Logger log = LoggerFactory.getLogger(OrdenProduccionController.class);
